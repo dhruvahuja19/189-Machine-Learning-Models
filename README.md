@@ -4,7 +4,7 @@ This repository contains my completed assignments for CS189: Machine Learning. E
 
 **** I'm not allowed to disclose my solutions publicly, however for employer requests, please email me @ dhruv_ahuja@berkeley.edu*** 
 
-Homeworks in this repository: 
+Homeworks in this repository: <br>
 HW1: Hard Margin SVM's, training techniques: K-Fold CrossValidation, Hyperparamter Tuning), Achieved 98.5 percent accuracy on SPAM Dataset <br>
 HW2: Probability Review, Multivariate Gaussians, Computing Gradients, Linear Algebra Review (No Coding, just deriving popular and important results and theorems)<br>
 HW3: Gaussian Classifiers(LDA, QDA), Covariance Matrices, Discriminant Functions <br>
